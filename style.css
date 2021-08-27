@@ -37,3 +37,12 @@
 .box_404{
     margin-top: 18px;
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 58px;
+}
+.footer a{
+    color: #000;
+    text-decoration: none;
+}
